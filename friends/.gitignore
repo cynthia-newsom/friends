@@ -1,2 +1,2 @@
-./friends/tmp
-./friends/log
+./friends/tmp/*
+./friends/log/*
